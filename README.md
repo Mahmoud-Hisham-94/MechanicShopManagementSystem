@@ -40,6 +40,32 @@ A modern, full-featured mechanic shop management system built with **Clean Archi
 - **Status Changes**: Real-time work order and task updates
 - **Team Collaboration**: Enhanced communication between staff
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/Screenshot%202025-11-01%20195527.png)
+*Real-time analytics dashboard with key performance indicators, revenue tracking, and operational metrics*
+
+### Customer Management
+![Customers](Screenshots/Screenshot%202025-11-01%20195612.png)
+*Customer profiles with vehicle registry and contact information*
+
+### Repair Tasks
+![Repair Tasks](Screenshots/Screenshot%202025-11-01%20195639.png)
+*Comprehensive repair task catalog with parts, labor costs, and time estimates*
+
+### Work Orders
+![Work Orders](Screenshots/Screenshot%202025-11-01%20195703.png)
+*Work order management with status tracking, scheduling, and task assignments*
+
+### Daily Schedule
+![Schedule](Screenshots/Screenshot%202025-11-01%20195803.png)
+*Service bay scheduling with time slot management and labor assignments*
+
+### Work Order Creation
+![New Work Order](Screenshots/Screenshot%202025-11-01%20195833.png)
+*Streamlined work order creation with customer, vehicle, and task selection*
+
 ## 🏗️ Architecture
 
 This application follows **Clean Architecture** principles with clear separation of concerns:
